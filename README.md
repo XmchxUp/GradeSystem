@@ -17,9 +17,9 @@
 
 ## 效果演示
 ### 评分模块
-![](.\res\grade.gif)
+![](https://github.com/XmchxUp/GradeSystem/blob/main/res/grade.gif)
 ### 部分效果
-![](.\res\all.gif)
+![](https://github.com/XmchxUp/GradeSystem/blob/main/res/all.gif)
 
 ## 本地运行
 - 创建数据库，导入数据(res/data.sql)，修改application-dev文件配置
